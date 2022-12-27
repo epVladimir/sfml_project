@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\.cxx\\Debug\\4g413u2w\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\.cxx\\Debug\\4g413u2w\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "example::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "example",
+      "output": "D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\build\\intermediates\\cxx\\Debug\\4g413u2w\\obj\\armeabi-v7a\\libexample.so",
+      "runtimeFiles": [
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-graphics-d.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-audio-d.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-activity-d.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-network-d.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\extlibs\\lib\\armeabi-v7a\\libopenal.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-window-d.so",
+        "D:\\android\\Sdk\\ndk\\25.1.8937393\\sources\\third_party\\sfml\\lib\\armeabi-v7a\\libsfml-system-d.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "D:\\android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

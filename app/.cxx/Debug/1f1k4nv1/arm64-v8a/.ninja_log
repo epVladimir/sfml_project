@@ -1,0 +1,5 @@
+# ninja log v5
+32	6144	6935548051010734	CMakeFiles/example.dir/src/main/cpp/main.cpp.o	8a212d631f680801
+6144	7803	6935548067624585	D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/build/intermediates/cxx/Debug/1f1k4nv1/obj/arm64-v8a/libexample.so	51320488fb7eebfb
+63	69	0	clean	8194303237352c17
+150	2877	6938173843179444	D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/build/intermediates/cxx/Debug/1f1k4nv1/obj/arm64-v8a/libexample.so	51320488fb7eebfb

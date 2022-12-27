@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/.cxx/Debug/1f1k4nv1/x86_64",
+  "command": "D:\\android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android22 --sysroot=D:/android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dexample_EXPORTS -isystem D:/android/Sdk/ndk/25.1.8937393/sources/third_party/sfml/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -std=gnu++20 -o CMakeFiles\\example.dir\\src\\main\\cpp\\main.cpp.o -c D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\src\\main\\cpp\\main.cpp",
+  "file": "D:\\git\\android\\SFML-Android-Template-main\\SFML-Android-Template-main\\app\\src\\main\\cpp\\main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/.cxx/Debug/1f1k4nv1/arm64-v8a/CMakeFiles/example.dir
+D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/.cxx/Debug/1f1k4nv1/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/git/android/SFML-Android-Template-main/SFML-Android-Template-main/app/.cxx/Debug/1f1k4nv1/arm64-v8a/CMakeFiles/rebuild_cache.dir
